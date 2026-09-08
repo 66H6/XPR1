@@ -1,0 +1,14 @@
+.DS_Store
+__MACOSX/
+._*
+*.pyc
+__pycache__/
+.venv/
+.pytest_cache/
+node_modules/
+.env
+.env.*
+logs/runs/
+results/runs/
+reports/runs/
+*.part

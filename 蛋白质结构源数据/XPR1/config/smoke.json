@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "stage": "intake",
+  "manifest": "data/structure_manifest.csv",
+  "raw_structures": "data/raw/XPR1_structures",
+  "supporting_raw": "data/raw/supporting",
+  "supporting_receipts": "data/supporting_sources.json",
+  "checksums": "data/checksums.sha256",
+  "source_receipt": "data/source_snapshot.json",
+  "expected_entries": 51,
+  "expected_tmd_entries": 48,
+  "expected_spx_entries": 3,
+  "expected_tmd_families": 10,
+  "expected_spx_families": 2,
+  "seed": 0,
+  "random_algorithms_used": false,
+  "require_supporting_data": true,
+  "gpu_required": false,
+  "generation_enabled": false
+}

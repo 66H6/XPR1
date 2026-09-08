@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "registered_date": "2026-09-03",
+  "repository": "https://github.com/66H6/XPR1",
+  "base_commit": "c1b1b7d967f125eb10f2927f0800ab384782c1b1",
+  "original_cif_count": 51,
+  "original_cif_download_date": "NOT_RECORDED",
+  "original_cif_download_operator": "NOT_VERIFIED_FROM_THIS_SNAPSHOT",
+  "upstream_readme_archive_name": "XPR1_project 2.zip",
+  "source_workbook": {
+    "filename": "XPR1_structure_manifest(1).xlsx",
+    "sha256": "87ae51a33241a839bd37ea7270c21b1304d5eebd289a9fc5139fd9d3af0944e3",
+    "sheet": "structure_manifest",
+    "range": "A1:I52",
+    "data_rows": 51,
+    "columns": 9,
+    "status": "user-supplied; scientific annotations not independently re-curated",
+    "preservation": "Original workbook retained outside the publishable repository; no changes made to it."
+  },
+  "csv_export": {
+    "path": "data/structure_manifest.csv",
+    "sha256": "80c0aa0512facc22b1a8bf54a0a536bd9e6951b8fb6e85d1d0072df718b43c60",
+    "encoding": "UTF-8",
+    "rows_and_columns_unchanged": true,
+    "cell_values_cross_checked_against_ooxml": 468,
+    "formula_cells": 0,
+    "empty_shared_string_importer_bug_corrected_cells": ["I3", "I8", "I9", "I10", "I11", "I25", "I27"],
+    "correction_meaning": "Importer incorrectly displayed the internal shared-string index 19. OOXML resolves these cells to empty strings. Source workbook itself was correct."
+  },
+  "scope": "Snapshot intake only; not a new exhaustive XPR1 literature search or a scientific state/assembly validation."
+}

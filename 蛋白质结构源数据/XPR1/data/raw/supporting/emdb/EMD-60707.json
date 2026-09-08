@@ -1,0 +1,767 @@
+{
+    "_id": "669454a138e8b5db761a50eb",
+    "admin": {
+        "authors_list": {
+            "author": [
+                {
+                    "instance_type": "author",
+                    "valueOf_": "Zuo P"
+                },
+                {
+                    "instance_type": "author",
+                    "valueOf_": "Liang L"
+                },
+                {
+                    "instance_type": "author",
+                    "valueOf_": "Yin Y"
+                }
+            ]
+        },
+        "current_status": {
+            "code": {
+                "valueOf_": "REL"
+            },
+            "date": "2025-07-23T00:00:00",
+            "processing_site": "PDBc"
+        },
+        "grant_support": {
+            "grant_reference": [
+                {
+                    "country": "China",
+                    "funding_body": "National Natural Science Foundation of China (NSFC)",
+                    "instance_type": "grant_reference"
+                }
+            ]
+        },
+        "key_dates": {
+            "deposition": "2024-07-06T00:00:00",
+            "header_release": "2025-04-02T00:00:00",
+            "map_release": "2025-04-02T00:00:00",
+            "update": "2025-07-23T00:00:00"
+        },
+        "keywords": "SLC53A1, transporter, phosphate, MEMBRANE PROTEIN",
+        "revision_history": {
+            "revision": [
+                {
+                    "change_list": {
+                        "revision_change_sub_group": [
+                            {
+                                "instance_type": "model",
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            },
+                            {
+                                "instance_type": "metadata",
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            },
+                            {
+                                "instance_type": "fsc",
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            },
+                            {
+                                "instance_type": "half_map",
+                                "part": 1,
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            },
+                            {
+                                "instance_type": "half_map",
+                                "part": 2,
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            },
+                            {
+                                "instance_type": "image",
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            },
+                            {
+                                "instance_type": "primary_map",
+                                "provider": "REPOSITORY",
+                                "revision_type": "INITIAL_RELEASE"
+                            }
+                        ]
+                    },
+                    "date": "2025-04-02T00:00:00",
+                    "instance_type": "revision",
+                    "version": "1.0"
+                },
+                {
+                    "change_list": {
+                        "revision_change_sub_group": [
+                            {
+                                "categories": {
+                                    "category": [
+                                        "em_admin",
+                                        "em_software"
+                                    ]
+                                },
+                                "instance_type": "model",
+                                "items": {
+                                    "item": [
+                                        "_em_admin.last_update",
+                                        "_em_software.name"
+                                    ]
+                                },
+                                "revision_group": "DATA_COLLECTION"
+                            },
+                            {
+                                "categories": {
+                                    "category": [
+                                        "em_admin",
+                                        "em_software"
+                                    ]
+                                },
+                                "instance_type": "metadata",
+                                "items": {
+                                    "item": [
+                                        "_em_admin.last_update",
+                                        "_em_software.name"
+                                    ]
+                                },
+                                "revision_group": "EXPERIMENTAL_SUMMARY"
+                            }
+                        ]
+                    },
+                    "date": "2025-07-23T00:00:00",
+                    "instance_type": "revision",
+                    "version": "1.1"
+                }
+            ]
+        },
+        "sites": {
+            "deposition": "PDBj",
+            "last_processing": "PDBc"
+        },
+        "title": "Cryo-EM structure of human XPR1 in complex with InsP6 in outward-facing state (SPX visible)-in the presence of KIDINS220-1-432 and 10 mM KH2PO4"
+    },
+    "crossreferences": {
+        "citation_list": {
+            "primary_citation": {
+                "citation_type": {
+                    "author": [
+                        {
+                            "ORCID": "0000-0002-5631-9534",
+                            "instance_type": "author",
+                            "order": 1,
+                            "valueOf_": "Zuo P"
+                        },
+                        {
+                            "ORCID": "0000-0001-7258-0356",
+                            "instance_type": "author",
+                            "order": 2,
+                            "valueOf_": "Wang W"
+                        },
+                        {
+                            "ORCID": "0000-0002-4005-1297",
+                            "instance_type": "author",
+                            "order": 3,
+                            "valueOf_": "Dai Z"
+                        },
+                        {
+                            "instance_type": "author",
+                            "order": 4,
+                            "valueOf_": "Zheng J"
+                        },
+                        {
+                            "ORCID": "0009-0002-2665-8882",
+                            "instance_type": "author",
+                            "order": 5,
+                            "valueOf_": "Yu S"
+                        },
+                        {
+                            "ORCID": "0000-0002-4884-2990",
+                            "instance_type": "author",
+                            "order": 6,
+                            "valueOf_": "Wang G"
+                        },
+                        {
+                            "instance_type": "author",
+                            "order": 7,
+                            "valueOf_": "Yin Y"
+                        },
+                        {
+                            "ORCID": "0000-0002-3115-2563",
+                            "instance_type": "author",
+                            "order": 8,
+                            "valueOf_": "Liang L"
+                        },
+                        {
+                            "ORCID": "0000-0003-3646-8548",
+                            "instance_type": "author",
+                            "order": 9,
+                            "valueOf_": "Yin Y"
+                        }
+                    ],
+                    "country": "UK",
+                    "external_references": [
+                        {
+                            "instance_type": "external_references",
+                            "type_": "PUBMED",
+                            "valueOf_": "40128258"
+                        },
+                        {
+                            "instance_type": "external_references",
+                            "type_": "DOI",
+                            "valueOf_": "doi:10.1038/s41467-025-58200-y"
+                        },
+                        {
+                            "instance_type": "external_references",
+                            "type_": "ISSN",
+                            "valueOf_": "2041-1723"
+                        }
+                    ],
+                    "first_page": "2879",
+                    "journal": "Nat Commun",
+                    "journal_abbreviation": "Nat Commun",
+                    "last_page": "2879",
+                    "published": true,
+                    "title": "Synergistic activation of the human phosphate exporter XPR1 by KIDINS220 and inositol pyrophosphate.",
+                    "volume": "16",
+                    "year": "2025"
+                }
+            }
+        },
+        "pdb_list": {
+            "pdb_reference": [
+                {
+                    "instance_type": "pdb_reference",
+                    "pdb_id": "9inh",
+                    "relationship": {
+                        "in_frame": "FULLOVERLAP"
+                    }
+                }
+            ]
+        }
+    },
+    "emdb_id": "EMD-60707",
+    "interpretation": {
+        "half_map_list": {
+            "half_map": [
+                {
+                    "axis_order": {
+                        "fast": "X",
+                        "medium": "Y",
+                        "slow": "Z"
+                    },
+                    "cell": {
+                        "a": {
+                            "units": "\u212b",
+                            "valueOf_": "387.84003"
+                        },
+                        "alpha": {
+                            "units": "deg",
+                            "valueOf_": "90.0"
+                        },
+                        "b": {
+                            "units": "\u212b",
+                            "valueOf_": "387.84003"
+                        },
+                        "beta": {
+                            "units": "deg",
+                            "valueOf_": "90.0"
+                        },
+                        "c": {
+                            "units": "\u212b",
+                            "valueOf_": "387.84003"
+                        },
+                        "gamma": {
+                            "units": "deg",
+                            "valueOf_": "90.0"
+                        }
+                    },
+                    "contour_list": {
+                        "contour": [
+                            {
+                                "instance_type": "contour",
+                                "primary": true,
+                                "source": "AUTHOR"
+                            }
+                        ]
+                    },
+                    "data_type": "IMAGE STORED AS FLOATING POINT NUMBER (4 BYTES)",
+                    "dimensions": {
+                        "col": 480,
+                        "row": 480,
+                        "sec": 480
+                    },
+                    "file": "emd_60707_half_map_2.map.gz",
+                    "format": "CCP4",
+                    "instance_type": "half_map",
+                    "label": "::::EMDATABANK.org::::EMD-60707::::",
+                    "origin": {
+                        "col": 0,
+                        "row": 0,
+                        "sec": 0
+                    },
+                    "pixel_spacing": {
+                        "x": {
+                            "units": "\u212b",
+                            "valueOf_": "0.808"
+                        },
+                        "y": {
+                            "units": "\u212b",
+                            "valueOf_": "0.808"
+                        },
+                        "z": {
+                            "units": "\u212b",
+                            "valueOf_": "0.808"
+                        }
+                    },
+                    "size_kbytes": 442369,
+                    "spacing": {
+                        "x": 480,
+                        "y": 480,
+                        "z": 480
+                    },
+                    "statistics": {
+                        "average": 0.0004028486,
+                        "maximum": 0.9292697,
+                        "minimum": -0.47588918,
+                        "std": 0.028849421
+                    },
+                    "symmetry": {
+                        "space_group": 1
+                    }
+                },
+                {
+                    "axis_order": {
+                        "fast": "X",
+                        "medium": "Y",
+                        "slow": "Z"
+                    },
+                    "cell": {
+                        "a": {
+                            "units": "\u212b",
+                            "valueOf_": "387.84003"
+                        },
+                        "alpha": {
+                            "units": "deg",
+                            "valueOf_": "90.0"
+                        },
+                        "b": {
+                            "units": "\u212b",
+                            "valueOf_": "387.84003"
+                        },
+                        "beta": {
+                            "units": "deg",
+                            "valueOf_": "90.0"
+                        },
+                        "c": {
+                            "units": "\u212b",
+                            "valueOf_": "387.84003"
+                        },
+                        "gamma": {
+                            "units": "deg",
+                            "valueOf_": "90.0"
+                        }
+                    },
+                    "contour_list": {
+                        "contour": [
+                            {
+                                "instance_type": "contour",
+                                "primary": true,
+                                "source": "AUTHOR"
+                            }
+                        ]
+                    },
+                    "data_type": "IMAGE STORED AS FLOATING POINT NUMBER (4 BYTES)",
+                    "dimensions": {
+                        "col": 480,
+                        "row": 480,
+                        "sec": 480
+                    },
+                    "file": "emd_60707_half_map_1.map.gz",
+                    "format": "CCP4",
+                    "instance_type": "half_map",
+                    "label": "::::EMDATABANK.org::::EMD-60707::::",
+                    "origin": {
+                        "col": 0,
+                        "row": 0,
+                        "sec": 0
+                    },
+                    "pixel_spacing": {
+                        "x": {
+                            "units": "\u212b",
+                            "valueOf_": "0.808"
+                        },
+                        "y": {
+                            "units": "\u212b",
+                            "valueOf_": "0.808"
+                        },
+                        "z": {
+                            "units": "\u212b",
+                            "valueOf_": "0.808"
+                        }
+                    },
+                    "size_kbytes": 442369,
+                    "spacing": {
+                        "x": 480,
+                        "y": 480,
+                        "z": 480
+                    },
+                    "statistics": {
+                        "average": 0.0004055933,
+                        "maximum": 0.88001823,
+                        "minimum": -0.51536566,
+                        "std": 0.028885255
+                    },
+                    "symmetry": {
+                        "space_group": 1
+                    }
+                }
+            ]
+        }
+    },
+    "map": {
+        "axis_order": {
+            "fast": "X",
+            "medium": "Y",
+            "slow": "Z"
+        },
+        "cell": {
+            "a": {
+                "units": "\u212b",
+                "valueOf_": "387.84003"
+            },
+            "alpha": {
+                "units": "deg",
+                "valueOf_": "90.0"
+            },
+            "b": {
+                "units": "\u212b",
+                "valueOf_": "387.84003"
+            },
+            "beta": {
+                "units": "deg",
+                "valueOf_": "90.0"
+            },
+            "c": {
+                "units": "\u212b",
+                "valueOf_": "387.84003"
+            },
+            "gamma": {
+                "units": "deg",
+                "valueOf_": "90.0"
+            }
+        },
+        "contour_list": {
+            "contour": [
+                {
+                    "instance_type": "contour",
+                    "level": 0.2,
+                    "primary": true,
+                    "source": "AUTHOR"
+                }
+            ]
+        },
+        "data_type": "IMAGE STORED AS FLOATING POINT NUMBER (4 BYTES)",
+        "dimensions": {
+            "col": 480,
+            "row": 480,
+            "sec": 480
+        },
+        "file": "emd_60707.map.gz",
+        "format": "CCP4",
+        "label": "::::EMDATABANK.org::::EMD-60707::::",
+        "origin": {
+            "col": 0,
+            "row": 0,
+            "sec": 0
+        },
+        "pixel_spacing": {
+            "x": {
+                "units": "\u212b",
+                "valueOf_": "0.808"
+            },
+            "y": {
+                "units": "\u212b",
+                "valueOf_": "0.808"
+            },
+            "z": {
+                "units": "\u212b",
+                "valueOf_": "0.808"
+            }
+        },
+        "size_kbytes": 442369,
+        "spacing": {
+            "x": 480,
+            "y": 480,
+            "z": 480
+        },
+        "statistics": {
+            "average": -0.0003538433,
+            "maximum": 2.0190861,
+            "minimum": -1.4164224,
+            "std": 0.024424639
+        },
+        "symmetry": {
+            "space_group": 1
+        }
+    },
+    "sample": {
+        "macromolecule_list": {
+            "macromolecule": [
+                {
+                    "enantiomer": "LEVO",
+                    "instance_type": "protein_or_peptide",
+                    "macromolecule_id": 1,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "0.08267399199999999"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "Solute carrier family 53 member 1"
+                    },
+                    "natural_source": {
+                        "database": "NCBI",
+                        "organism": {
+                            "ncbi": 9606,
+                            "valueOf_": "Homo sapiens"
+                        }
+                    },
+                    "number_of_copies": "2",
+                    "recombinant_expression": {
+                        "database": "NCBI",
+                        "recombinant_organism": {
+                            "ncbi": 9606,
+                            "valueOf_": "Homo sapiens"
+                        }
+                    },
+                    "sequence": {
+                        "external_references": [
+                            {
+                                "instance_type": "external_references",
+                                "type_": "UNIPROTKB",
+                                "valueOf_": "Q9UBH6"
+                            }
+                        ],
+                        "string": "MKFAEHLSAHITPEWRKQYIQYEAFKDMLYSAQDQAPSVEVTDEDTVKRYFAKFEEKFFQTCEKELAKINTFYSEKLAEA QRRFATLQNELQSSLDAQKESTGVTTLRQRRKPVFHLSHEERVQHRNIKDLKLAFSEFYLSLILLQNYQNLNFTGFRKIL KKHDKILETSRGADWRVAHVEVAPFYTCKKINQLISETEAVVTNELEDGDRQKAMKRLRVPPLGAAQPAPAWTTFRVGLF CGIFIVLNITLVLAAVFKLETDRSIWPLIRIYRGGFLLIEFLFLLGINTYGWRQAGVNHVLIFELNPRSNLSHQHLFEIA GFLGILWCLSLLACFFAPISVIPTYVYPLALYGFMVFFLINPTKTFYYKSRFWLLKLLFRVFTAPFHKVGFADFWLADQL NSLSVILMDLEYMICFYSLELKWDESKGLLPNNSEESGICHKYTYGVRAIVQCIPAWLRFIQCLRRYRDTKRAFPHLVNA GKYSTTFFMVTFAALYSTHKERGHSDTMVFFYLWIVFYIISSCYTLIWDLKMDWGLFDKNAGENTFLREEIVYPQKAYYY CAIIEDVILRFAWTIQISITSTTLLPHSGDIIATVFAPLEVFRRFVWNFFRLENEHLNNCGEFRAVRDISVAPLNADDQT LLEQMMDQDDGVRNRQKNRSWKYNQSISLRRPRLASQSKARDTKVLIEDTDDEANTSRENLYFQ"
+                    }
+                },
+                {
+                    "formula": "IHP",
+                    "instance_type": "ligand",
+                    "macromolecule_id": 2,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "0.0006600349999999999"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "INOSITOL HEXAKISPHOSPHATE"
+                    },
+                    "number_of_copies": "2"
+                },
+                {
+                    "formula": "CLR",
+                    "instance_type": "ligand",
+                    "macromolecule_id": 3,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "0.000386654"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "CHOLESTEROL"
+                    },
+                    "number_of_copies": "12"
+                },
+                {
+                    "formula": "3PE",
+                    "instance_type": "ligand",
+                    "macromolecule_id": 4,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "0.000748065"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "1,2-Distearoyl-sn-glycerophosphoethanolamine"
+                    },
+                    "number_of_copies": "6"
+                },
+                {
+                    "formula": "PLM",
+                    "instance_type": "ligand",
+                    "macromolecule_id": 5,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "0.00025642399999999994"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "PALMITIC ACID"
+                    },
+                    "number_of_copies": "2"
+                },
+                {
+                    "formula": "ACD",
+                    "instance_type": "ligand",
+                    "macromolecule_id": 6,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "0.000304467"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "ARACHIDONIC ACID"
+                    },
+                    "number_of_copies": "2"
+                },
+                {
+                    "formula": "PO4",
+                    "instance_type": "ligand",
+                    "macromolecule_id": 7,
+                    "molecular_weight": {
+                        "theoretical": {
+                            "units": "MDa",
+                            "valueOf_": "9.4971e-05"
+                        }
+                    },
+                    "name": {
+                        "valueOf_": "PHOSPHATE ION"
+                    },
+                    "number_of_copies": "10"
+                }
+            ]
+        },
+        "name": {
+            "valueOf_": "XPR1-KIDINS220-1-432 in complex with InsP6"
+        },
+        "supramolecule_list": {
+            "supramolecule": [
+                {
+                    "instance_type": "complex_supramolecule",
+                    "macromolecule_list": {
+                        "macromolecule": [
+                            {
+                                "instance_type": "macromolecule",
+                                "macromolecule_id": 1
+                            }
+                        ]
+                    },
+                    "name": {
+                        "valueOf_": "XPR1-KIDINS220-1-432 in complex with InsP6"
+                    },
+                    "natural_source": [
+                        {
+                            "database": "NCBI",
+                            "instance_type": "natural_source",
+                            "organism": {
+                                "ncbi": 9606,
+                                "valueOf_": "Homo sapiens"
+                            }
+                        }
+                    ],
+                    "parent": 0,
+                    "supramolecule_id": 1
+                }
+            ]
+        }
+    },
+    "structure_determination_list": {
+        "structure_determination": [
+            {
+                "aggregation_state": "particle",
+                "image_processing": [
+                    {
+                        "ctf_correction": {
+                            "type_": "PHASE FLIPPING AND AMPLITUDE CORRECTION"
+                        },
+                        "final_angle_assignment": {
+                            "type_": "MAXIMUM LIKELIHOOD"
+                        },
+                        "final_reconstruction": {
+                            "number_images_used": 79995,
+                            "resolution": {
+                                "res_type": "BY AUTHOR",
+                                "units": "\u212b",
+                                "valueOf_": "3.68"
+                            },
+                            "resolution_method": "FSC 0.143 CUT-OFF"
+                        },
+                        "image_processing_id": 1,
+                        "image_recording_id": 1,
+                        "initial_angle_assignment": {
+                            "type_": "MAXIMUM LIKELIHOOD"
+                        },
+                        "instance_type": "singleparticle_processing",
+                        "startup_model": [
+                            {
+                                "instance_type": "startup_model",
+                                "type_of_model": "INSILICO MODEL"
+                            }
+                        ]
+                    }
+                ],
+                "instance_type": "structure_determination",
+                "method": "singleParticle",
+                "microscopy_list": {
+                    "microscopy": [
+                        {
+                            "acceleration_voltage": {
+                                "units": "kV",
+                                "valueOf_": "300"
+                            },
+                            "electron_source": "FIELD EMISSION GUN",
+                            "illumination_mode": "SPOT SCAN",
+                            "image_recording_list": {
+                                "image_recording": [
+                                    {
+                                        "average_electron_dose_per_image": {
+                                            "units": "e/\u212b^2",
+                                            "valueOf_": "50.0"
+                                        },
+                                        "film_or_detector_model": {
+                                            "valueOf_": "FEI FALCON IV (4k x 4k)"
+                                        },
+                                        "image_recording_id": 1,
+                                        "instance_type": "image_recording"
+                                    }
+                                ]
+                            },
+                            "imaging_mode": "BRIGHT FIELD",
+                            "instance_type": "single_particle_microscopy",
+                            "microscope": "FEI TITAN KRIOS",
+                            "microscopy_id": 1,
+                            "nominal_defocus_max": {
+                                "units": "\u00b5m",
+                                "valueOf_": "2.0"
+                            },
+                            "nominal_defocus_min": {
+                                "units": "\u00b5m",
+                                "valueOf_": "1.5"
+                            }
+                        }
+                    ]
+                },
+                "specimen_preparation_list": {
+                    "specimen_preparation": [
+                        {
+                            "buffer": {
+                                "ph": 7.5
+                            },
+                            "instance_type": "single_particle_preparation",
+                            "preparation_id": 1,
+                            "vitrification": {
+                                "cryogen_name": "ETHANE"
+                            }
+                        }
+                    ]
+                },
+                "structure_determination_id": 1
+            }
+        ]
+    },
+    "version": "3.0.11.0"
+}

@@ -1,0 +1,8 @@
+{
+  "command": "python -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "python": "3.12.13",
+  "gemmi": "0.7.3",
+  "test_file_sha256": "5a6474edc32921b8861d54cdc9eb8479ee8fabe06593e4d70cd9a2322253a47e",
+  "scope": "CPU unit and integration checks; no GPU or scientific model tests"
+}
