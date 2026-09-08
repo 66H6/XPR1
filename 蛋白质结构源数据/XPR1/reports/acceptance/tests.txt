@@ -1,0 +1,31 @@
+test_assembly_xxxx_requires_parent_identity (test_intake.IntakeTests.test_assembly_xxxx_requires_parent_identity) ... ok
+test_baseline_overwrite_refused (test_intake.IntakeTests.test_baseline_overwrite_refused) ... ok
+test_baseline_roundtrip (test_intake.IntakeTests.test_baseline_roundtrip) ... ok
+test_doi_normalization (test_intake.IntakeTests.test_doi_normalization) ... ok
+test_duplicate_baseline_line_detected (test_intake.IntakeTests.test_duplicate_baseline_line_detected) ... ok
+test_duplicate_manifest_id (test_intake.IntakeTests.test_duplicate_manifest_id) ... ok
+test_empty_dataset_cannot_pass (test_intake.IntakeTests.test_empty_dataset_cannot_pass) ... ok
+test_family_cannot_combine_different_primary_dois (test_intake.IntakeTests.test_family_cannot_combine_different_primary_dois) ... ok
+test_filename_and_entry_disagree (test_intake.IntakeTests.test_filename_and_entry_disagree) ... ok
+test_initial_gate_never_authorizes_generation (test_intake.IntakeTests.test_initial_gate_never_authorizes_generation) ... ok
+test_invalid_syntax_is_failure (test_intake.IntakeTests.test_invalid_syntax_is_failure) ... ok
+test_manifest_blank_note_preserved (test_intake.IntakeTests.test_manifest_blank_note_preserved) ... ok
+test_manifest_rejects_missing_column (test_intake.IntakeTests.test_manifest_rejects_missing_column) ... ok
+test_missing_input_detected (test_intake.IntakeTests.test_missing_input_detected) ... ok
+test_missing_structure_blocks_gate (test_intake.IntakeTests.test_missing_structure_blocks_gate) ... ok
+test_modified_file_detected_without_rebaseline (test_intake.IntakeTests.test_modified_file_detected_without_rebaseline) ... ok
+test_new_unlisted_input_detected (test_intake.IntakeTests.test_new_unlisted_input_detected) ... ok
+test_nonfinite_coordinate_is_failure (test_intake.IntakeTests.test_nonfinite_coordinate_is_failure) ... ok
+test_path_traversal_and_absolute_path_rejected (test_intake.IntakeTests.test_path_traversal_and_absolute_path_rejected) ... ok
+test_reference_fasta_rejects_wrong_accession (test_intake.IntakeTests.test_reference_fasta_rejects_wrong_accession) ... ok
+test_same_paper_cannot_split_families (test_intake.IntakeTests.test_same_paper_cannot_split_families) ... ok
+test_unlisted_structure_blocks_gate (test_intake.IntakeTests.test_unlisted_structure_blocks_gate) ... ok
+test_valid_cif_and_unassigned_state (test_intake.IntakeTests.test_valid_cif_and_unassigned_state) ... ok
+test_validation_report_wrong_entry_rejected (test_intake.IntakeTests.test_validation_report_wrong_entry_rejected) ... ok
+test_wrong_primary_doi_is_failure (test_intake.IntakeTests.test_wrong_primary_doi_is_failure) ... ok
+test_zero_atoms_is_failure (test_intake.IntakeTests.test_zero_atoms_is_failure) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 0.041s
+
+OK

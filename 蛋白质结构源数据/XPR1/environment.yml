@@ -1,0 +1,8 @@
+name: xpr1-intake
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.13
+  - pip=25.0.1
+  - pip:
+      - gemmi==0.7.3

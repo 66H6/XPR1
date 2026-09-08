@@ -1,0 +1,8 @@
+# 原始文件按字节保存；避免 Windows 自动换行转换破坏校验和。
+data/raw/** -text
+data/structure_manifest.csv -text
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.sha256 text eol=lf
+*.sh text eol=lf
